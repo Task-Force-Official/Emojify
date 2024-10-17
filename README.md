@@ -23,12 +23,12 @@ Run the script with the following commands:
 
 Encode a message:
 ```
-python emoji_encoder.py encode "Your message here"
+python emojify.py encode "Your message here"
 ```
 
 Decode a message:
 ```
-python emoji_encoder.py decode "Your 😎 emoji 😊 message 😍 here"
+python emojify.py decode "Your 😎 emoji 😊 message 😍 here"
 ```
 
 ## Specifications
