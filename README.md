@@ -1,4 +1,4 @@
-# Emojifier 😎 [10 points]
+# Emojify 😎 [10 points]
 
 ## Task Overview
 Create a command-line tool that encodes and decodes text messages using emojis. This task combines elements of cryptography, Unicode handling, and command-line interface design using the `click` library.
